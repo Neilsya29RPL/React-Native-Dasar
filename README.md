@@ -11,4 +11,4 @@
 
 
 ## Desain Tampilan dan Flexbox
-<img width="306" alt="Screenshot_1657607311" src="https://user-images.githubusercontent.com/68727623/178493912-04e4c853-575a-4a09-869c-ec3168a718d0.png">
+<img width="252" alt="Screenshot_1657630514" src="https://user-images.githubusercontent.com/68727623/178495151-432a1bbc-1631-4faf-8b4e-9fb4ff47f6e2.png">
